@@ -10,15 +10,15 @@
  
 **Graduated in BE Computer Science and Engineering**
 
-**AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
+**AWS Certified Machine Learning Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
 
 **AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)**
 
-**Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)**
+**Microsoft Azure Data Scientist Associate Certified [visit](https://www.linkedin.com/feed/update/urn:li:activity:7132991841938939905/)**
 
-**Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)**
+**Microsoft Azure AI-900 Certified [visit](https://www.linkedin.com/feed/update/urn:li:activity:7115971119513276416/)**
 
-**💬 Ask me about Data Science Tech Stacks , Data Engineering**
+**💬 Ask me about Data Science , Data Engineering Tech Stacks**
 
 **📫 Reach me : hellopraveends@gmail.com**
 
